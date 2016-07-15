@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Introduction](documentation/Introduction.md)
-   * Definitions
+   * [Definitions](documentation/Definitions.md)
 
