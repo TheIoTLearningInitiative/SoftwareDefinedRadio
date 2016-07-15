@@ -1,7 +1,7 @@
 # Summary
 
 * [Cover](README.md)
-* Summary
+* [Summary](SUMMARY.md)
 * [Introduction](documentation/Introduction.md)
    * [Definitions](documentation/Definitions.md)
 * [Setup](documentation/Setup.md)
