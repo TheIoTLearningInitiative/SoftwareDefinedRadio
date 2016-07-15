@@ -4,6 +4,7 @@
 * [Summary](SUMMARY.md)
 * About This Training
    * [Objectives](documentation/Objectives.md)
+   * Skills
 * [Introduction](documentation/Introduction.md)
    * [Definitions](documentation/Definitions.md)
 * [Setup](documentation/Setup.md)
