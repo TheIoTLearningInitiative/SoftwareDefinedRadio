@@ -6,4 +6,5 @@
 * [Setup](documentation/Setup.md)
 * Hardware
    * [HackRF](documentation/Hackrf.md)
+   * RTL2838UHIDIR
 
