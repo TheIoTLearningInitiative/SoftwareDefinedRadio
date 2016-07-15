@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Cover
 * [Introduction](documentation/Introduction.md)
    * [Definitions](documentation/Definitions.md)
 * [Setup](documentation/Setup.md)
@@ -10,5 +11,4 @@
 * [Laboratory](documentation/Laboratory.md)
    * [GNU Radio Companion](documentation/GnuRadioCompanion.md)
    * [Python](documentation/Python.md)
-* Cover
 
