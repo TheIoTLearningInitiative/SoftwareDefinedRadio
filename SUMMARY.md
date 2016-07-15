@@ -7,7 +7,5 @@
 * Hardware
    * [HackRF](documentation/Hackrf.md)
    * [RTL2838UHIDIR](documentation/Rtl2838uhidir.md)
-* [Examples](documentation/Examples.md)
-   * GNU Radio Companion
 * GNU Radio Companion
 
