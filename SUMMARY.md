@@ -11,4 +11,5 @@
 * [Laboratory](documentation/Laboratory.md)
    * [GNU Radio Companion](documentation/GnuRadioCompanion.md)
    * [Python](documentation/Python.md)
+* About This Training
 
