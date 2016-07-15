@@ -1,6 +1,6 @@
 # Summary
 
-* Cover
+* [Cover](README.md)
 * [Introduction](README.md)
 * [Introduction](documentation/Introduction.md)
    * [Definitions](documentation/Definitions.md)
