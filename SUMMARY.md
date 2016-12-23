@@ -11,6 +11,7 @@
 * [Setup](documentation/Setup.md)
 * Hardware
     * [HackRF](documentation/Hackrf.md)
+        * [Firmware](documentation/firmware.md)
     * [RTL2838UHIDIR](documentation/Rtl2838uhidir.md)
 * [Laboratory](documentation/Laboratory.md)
     * [GNU Radio Companion](documentation/GnuRadioCompanion.md)
