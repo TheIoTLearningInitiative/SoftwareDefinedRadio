@@ -12,6 +12,7 @@ Latest Release
 ```sh
 user@workstation:~$ wget https://github.com/mossmann/hackrf/releases/download/v2015.07.2/hackrf-2015.07.2.tar.xz
 user@workstation:~$ tar xvf hackrf-2015.07.2.tar.xz
+user@workstation:~$ cd hackrf-2015.07.2/firnmware-bin
 ```
 
 # SPI Flash Firmware
