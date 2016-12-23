@@ -25,3 +25,16 @@ Part ID Number: 0xa000cb3c 0x006d4749
 Serial Number: 0x00000000 0x00000000 0x321864c8 0x3952811d
 pymelab@workstation:~/hackrf-2015.07.2/firmware-bin$ 
 ```
+
+```sh
+pymelab@workstation:~/hackrf-2015.07.2/firmware-bin$ hackrf_cpldjtag -x hackrf_cpld_default.xsvf 
+File size 37629 bytes.
+LED1/2/3 blinking means CPLD program success.
+LED3/RED steady means error.
+Wait message 'Write finished' or in case of LED3/RED steady, Power OFF/Disconnect the HackRF.
+Write finished.
+Please Power OFF/Disconnect the HackRF.
+pymelab@workstation:~/hackrf-2015.07.2/firmware-bin$ 
+```
+
+```sh
