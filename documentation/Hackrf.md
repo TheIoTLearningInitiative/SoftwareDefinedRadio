@@ -1,6 +1,6 @@
 # HackRF
 
-> HackRF One from Great Scott Gadgets is a Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz. Designed to enable test and development of modern and next generation radio technologies, HackRF One is an open source hardware platform that can be used as a USB peripheral or programmed for stand-alone operation.
+> HackRF One from Great Scott Gadgets is a Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz. Designed to enable test and development of modern and next generation radio technologies, HackRF One is an open source hardware platform that can be used as a USB peripheral or programmed for stand-alone operation. [Homepage](https://greatscottgadgets.com/hackrf/)
 
 - [Hackrf Github](https://github.com/mossmann/hackrf)
 - [Hackrf Wikipedia](https://github.com/mossmann/hackrf/wiki)
