@@ -18,6 +18,7 @@
     * [GNU Radio Companion](documentation/GnuRadioCompanion.md)
     * [Python](documentation/Python.md)
     * [GSM](documentation/gsm.md)
+    * [VHF](documentation/vhf.md)
 * [Python](python.md)
     * [FM Radio](fm-radio.md)
 
