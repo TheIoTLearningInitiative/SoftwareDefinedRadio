@@ -9,6 +9,11 @@ Latest Release
 
 - [Github Hackrf](https://github.com/mossmann/hackrf/releases/latest)
 
+```sh
+user@workstation:~$ wget https://github.com/mossmann/hackrf/releases/download/v2015.07.2/hackrf-2015.07.2.tar.xz
+user@workstation:~$ tar xvf hackrf-2015.07.2.tar.xz
+```
+
 # SPI Flash Firmware
 
 ```sh
