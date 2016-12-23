@@ -47,3 +47,8 @@ Resolving deltas: 100% (8379/8379), done.
 Comprobando la conectividad… hecho.
 pymelab@workstation:~$ 
 ```
+
+```sh
+pymelab@workstation:~$ cd libosmocore/
+pymelab@workstation:~/libosmocore$ 
+```
