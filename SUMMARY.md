@@ -19,6 +19,7 @@
     * [Python](documentation/Python.md)
     * [GSM](documentation/gsm.md)
     * [VHF](documentation/vhf.md)
+    * [SDR\#](documentation/sdr.md)
 * [Python](python.md)
     * [FM Radio](fm-radio.md)
 
