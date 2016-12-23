@@ -21,6 +21,7 @@
     * [VHF](documentation/vhf.md)
     * [SDR\#](documentation/sdr.md)
     * [multimon-ng](documentation/multimon-ng.md)
+    * [Software Defined Radio Argilo](documentation/software-defined-radio-argilo.md)
 * [Python](python.md)
     * [FM Radio](fm-radio.md)
 
