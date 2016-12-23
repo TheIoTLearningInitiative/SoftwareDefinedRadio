@@ -6,6 +6,10 @@
 
 # Training
 
+## Software Defined Radio with HackRF 
+
+> This ongoing video series will be a complete course in Software Defined Radio (SDR). In this course, you'll build flexible SDR applications using GNU Radio through exercises that will help you learn the fundamentals of Digital Signal Processing (DSP) needed to master SDR. For the over-the-air exercises, you'll need a HackRF One or other SDR peripheral. [Homepage](https://greatscottgadgets.com/sdr/)
+
 01. Welcome
 02. DSP
 03. What is a Decibel?
