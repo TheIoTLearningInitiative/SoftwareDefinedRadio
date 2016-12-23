@@ -29,7 +29,7 @@ Serial Number: 0x00000000 0x00000000 0x321864c8 0x3952811d
 pymelab@workstation:~/hackrf-2015.07.2/firmware-bin$ 
 ```
 
-
+Reset
 
 ```sh
 pymelab@workstation:~/hackrf-2015.07.2/firmware-bin$ hackrf_info 
