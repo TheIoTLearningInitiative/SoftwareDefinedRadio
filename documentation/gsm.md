@@ -35,3 +35,15 @@ Configurando git-core (1:1.9.1-1ubuntu0.3) ...
 Configurando libpcap0.8-dev (1.5.3-2) ...
 pymelab@workstation:~$ 
 ```
+
+```
+pymelab@workstation:~$ git clone git://git.osmocom.org/libosmocore.git
+Clonar en «libosmocore»...
+remote: Counting objects: 12480, done.
+remote: Compressing objects: 100% (7281/7281), done.
+remote: Total 12480 (delta 8379), reused 7333 (delta 4713)
+Receiving objects: 100% (12480/12480), 2.08 MiB | 204.00 KiB/s, done.
+Resolving deltas: 100% (8379/8379), done.
+Comprobando la conectividad… hecho.
+pymelab@workstation:~$ 
+```
