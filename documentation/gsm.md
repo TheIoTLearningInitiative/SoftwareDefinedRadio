@@ -65,6 +65,3 @@ pymelab@workstation:~$ git clone git://git.gnumonks.org/airprobe.git
 ```sh
 pymelab@workstation:~$ git clone git://git.gnumonks.org/airprobe
 ```
-
-
-
