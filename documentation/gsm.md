@@ -54,6 +54,6 @@ pymelab@workstation:~/libosmocore$
 ```
 
 ```sh
-pymelab@workstation:~/libosmocore$ sudo apt-get install talloc
+pymelab@workstation:~/libosmocore$ sudo apt-get install libtalloc-dev libpcsclite-dev
 ```
 
