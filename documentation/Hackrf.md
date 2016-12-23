@@ -4,9 +4,6 @@
 - [Hackrf Github](https://github.com/mossmann/hackrf)
 - [Hackrf Wikipedia](https://github.com/mossmann/hackrf/wiki)
 
-
-
-
 # Training
 
 01. Welcome
