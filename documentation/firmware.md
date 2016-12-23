@@ -9,6 +9,8 @@ Latest Release
 
 - [Github Hackrf](https://github.com/mossmann/hackrf/releases/latest)
 
+# SPI Flash Firmware
+
 ```sh
 user@workstation:~/hackrf-2015.07.2/firmware-bin$ ls
 hackrf_cpld_default.xsvf       hackrf_jawbreaker_usb_rom_to_ram.bin  hackrf_one_usb_rom_to_ram.bin
@@ -41,6 +43,8 @@ Part ID Number: 0xa000cb3c 0x006d4749
 Serial Number: 0x00000000 0x00000000 0x321864c8 0x3952811d
 pymelab@workstation:~/hackrf-2015.07.2/firmware-bin$ 
 ```
+
+# CPLD
 
 ```sh
 pymelab@workstation:~/hackrf-2015.07.2/firmware-bin$ hackrf_cpldjtag -x hackrf_cpld_default.xsvf 
