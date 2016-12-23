@@ -57,3 +57,7 @@ pymelab@workstation:~/libosmocore$
 pymelab@workstation:~/libosmocore$ sudo apt-get install libtalloc-dev libpcsclite-dev
 ```
 
+```sh
+pymelab@workstation:~/libosmocore$ cd ..
+pymelab@workstation:~$ git clone git://git.gnumonks.org/airprobe.git
+```
