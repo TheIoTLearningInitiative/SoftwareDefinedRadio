@@ -34,3 +34,4 @@ user@workstation:~$ git clone https://github.com/scateu/kalibrate-hackrf.git
 
 - https://github.com/scateu/kalibrate-hackrf
 - https://github.com/gearmover/hackrf-gsm
+- https://github.com/hathcox/py-hackrf
