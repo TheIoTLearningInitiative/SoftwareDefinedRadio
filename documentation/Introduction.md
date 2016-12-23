@@ -15,4 +15,4 @@
 - [Balint's SDR Tutorials](http://files.ettus.com/tutorials/)
 - [GNU Radio Tutorial Series](https://www.youtube.com/playlist?list=PL618122BD66C8B3C4)
 - [Fundamentos de Comunicación EPN](https://www.youtube.com/channel/UCL0x1sTEC8XlZnjS_SHlj8Q)
-
+- [Radio Architectures and Signal Processing](http://www.cs.tut.fi/kurssit/TLT-9707/presentations/Radio-Arch-SP-short-2pp.pdf)
