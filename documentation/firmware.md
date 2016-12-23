@@ -2,6 +2,9 @@
 
 > HackRF devices ship with firmware on the SPI flash memory and with a bitstream programmed onto the CPLD. The firmware can be updated with nothing more than a USB cable and host computer. [Homepage](https://github.com/mossmann/hackrf/wiki/Updating-Firmware)
 
+- Updating the SPI Flash Firmware
+- Updating the CPLD
+
 ```sh
 pymelab@workstation:~/hackrf-2015.07.2/firmware-bin$ ls
 hackrf_cpld_default.xsvf       hackrf_jawbreaker_usb_rom_to_ram.bin  hackrf_one_usb_rom_to_ram.bin
