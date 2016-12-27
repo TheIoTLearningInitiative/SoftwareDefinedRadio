@@ -40,3 +40,5 @@ user@workstation:~$ git clone https://github.com/scateu/kalibrate-hackrf.git
 ```sh
 pymelab@workstation:~$ sudo apt-get install libsdl2-dev libsdl2-image-dev libhackrf-dev
 ```
+
+https://github.com/rgerganov/rf-car
