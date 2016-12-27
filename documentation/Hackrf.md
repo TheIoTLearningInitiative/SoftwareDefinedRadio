@@ -36,3 +36,7 @@ user@workstation:~$ git clone https://github.com/scateu/kalibrate-hackrf.git
 - https://github.com/gearmover/hackrf-gsm
 - https://github.com/hathcox/py-hackrf
 - https://github.com/scateu/gr-remotecar/tree/0ec5cfb8692753658f793a6f9b6c30247ebf99be
+
+```sh
+pymelab@workstation:~$ sudo apt-get install libsdl2-dev libsdl2-image-dev libhackrf-dev
+```
