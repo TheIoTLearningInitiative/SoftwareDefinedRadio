@@ -11,6 +11,7 @@
     * [FCC](documentation/fcc.md)
     * [NCC Group](documentation/ncc-group.md)
     * [OsmoconSDR](documentation/osmoconsdr.md)
+    * [Tips and Tricks](documentation/tips-and-tricks.md)
 * [Setup](documentation/Setup.md)
 * Hardware
     * [HackRF](documentation/Hackrf.md)
